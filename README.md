@@ -1,0 +1,2 @@
+# pylitecoin
+Litecoin Python Library
